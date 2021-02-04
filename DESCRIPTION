@@ -1,0 +1,15 @@
+Package: FDAonDNN
+Title: Functional regression model via deep neural network
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shuoyang",
+           family = "Wang",
+           role = c("aut", "cre"),
+           email = "szw0100@auburn.edu",
+           comment = c(ORCID = "0000-0001-6963-6267"))
+Imports: magrittr, keras
+Description: Functional regression model via Deep neural network.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
